@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CaIvin-Chiu
 - 👀 I’m interested in @ data analytics and machine learning
 - 🌱 I’m currently learning @ data analytics in python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ calvinchiu.ut@gmail.com
 
 <!---
